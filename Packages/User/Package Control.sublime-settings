@@ -1,0 +1,16 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Colorsublime",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - SoDaReloaded",
+		"TrailingSpaces"
+	]
+}
